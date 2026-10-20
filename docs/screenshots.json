@@ -1,0 +1,4 @@
+[
+  {"file":"01-popover-boost-on.png","caption":"The menu bar popover with the boost on at 50%, showing the detected EDR display and its 16× headroom, battery saver, and compatibility options.","alt":"XdrBoostBar popover with boost enabled at 50%"},
+  {"file":"02-popover-off.png","caption":"With the boost off, the sun icon is outlined and the slider waits at your chosen level, ready to toggle with Control + Option + B.","alt":"XdrBoostBar popover with boost turned off"}
+]

@@ -1,5 +1,7 @@
 # XdrBoostBar
 
+**🌐 Website:** [turhe123.github.io/xdr-boost-bar](https://turhe123.github.io/xdr-boost-bar/)
+
 Unlock the extra HDR headroom of your MacBook Pro or XDR display for brighter everyday content with a slider.
 
 ![macOS 14+](https://img.shields.io/badge/macOS-14%2B-blue)
@@ -32,7 +34,13 @@ XdrBoostBar is a free, open-source, 100% native, backend-free alternative to pai
 
 ## Screenshots
 
-_Screenshots coming soon._
+<p align="center"><img src="docs/screenshots/01-popover-boost-on.png" alt="XdrBoostBar popover with boost enabled at 50%" width="720"></p>
+
+<p align="center"><em>The menu bar popover with the boost on at 50%, showing the detected EDR display and its 16× headroom, battery saver, and compatibility options.</em></p>
+
+<p align="center"><img src="docs/screenshots/02-popover-off.png" alt="XdrBoostBar popover with boost turned off" width="560"></p>
+
+<p align="center"><em>With the boost off, the sun icon is outlined and the slider waits at your chosen level, ready to toggle with Control + Option + B.</em></p>
 
 ## Install
 

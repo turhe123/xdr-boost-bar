@@ -1,0 +1,60 @@
+{
+  "seo_title": "Free XDR brightness boost for Mac",
+  "seo_description": "XdrBoostBar is a free, open-source menu bar app that unlocks the extra HDR headroom of MacBook Pro and XDR displays with one slider. Native, offline, macOS 14+.",
+  "hero_title_line1": "More brightness,",
+  "hero_title_accent": "one slider away.",
+  "hero_sub": "XdrBoostBar uses the extra HDR headroom of your MacBook Pro or XDR display to make everyday content brighter. Drag the slider, or press Control + Option + B to toggle it.",
+  "features_title": "Simple control, sensible limits.",
+  "features_sub": "A small menu bar app that adds brightness on top of the system level and backs off when your Mac needs it to.",
+  "features": [
+    {
+      "icon": "sliders",
+      "title": "Boost slider from 0 to 100%",
+      "desc": "Sets how much extra brightness is added on top of the system level. The multiplier is capped at 2x and never exceeds what the display reports as available."
+    },
+    {
+      "icon": "keyboard",
+      "title": "Global hotkey toggle",
+      "desc": "Press Control + Option + B from any app to switch the boost on or off. The sun icon in the menu bar shows whether it is on, off or unsupported."
+    },
+    {
+      "icon": "display",
+      "title": "Per-display detection",
+      "desc": "Displays with EDR headroom are detected automatically and listed with their headroom. You choose which ones get the boost, and unsupported setups are clearly labeled."
+    },
+    {
+      "icon": "battery",
+      "title": "Battery saver",
+      "desc": "Pauses the boost on battery below a threshold you set, 30% by default, and whenever Low Power Mode is on."
+    },
+    {
+      "icon": "bolt",
+      "title": "Thermal protection",
+      "desc": "If the system reaches a serious or critical thermal state, the boost ramps down over about a second and the popover shows a notice."
+    },
+    {
+      "icon": "sparkles",
+      "title": "Compatibility mode",
+      "desc": "If the default overlay method does not brighten your screen, switch to a gamma-table method. Gamma settings are restored when the boost turns off and when the app quits."
+    }
+  ],
+  "permissions_step": "No special permissions are required.",
+  "faq": [
+    {
+      "q": "Is XdrBoostBar really free and open source?",
+      "a": "Yes. It is released under the MIT license and the full source is on GitHub. There are no ads, analytics or paid tiers, and an optional Ko-fi donation button is the only way to support it."
+    },
+    {
+      "q": "What permissions does it need?",
+      "a": "None. The hotkey does not need Accessibility access, and the app draws its own overlay without capturing the screen, so Screen Recording is not needed either. It makes no network connections."
+    },
+    {
+      "q": "Where is my data stored?",
+      "a": "Only on your Mac. Your settings are saved locally in the app's standard macOS preferences so they persist between launches. Nothing is sent anywhere."
+    },
+    {
+      "q": "Why is the app not notarized?",
+      "a": "Notarization requires a paid Apple Developer account, and this is a free project. Right-click the app and choose Open once to get past Gatekeeper, or build it yourself from source with Xcode."
+    }
+  ]
+}
